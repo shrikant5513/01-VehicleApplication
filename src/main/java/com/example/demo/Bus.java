@@ -2,6 +2,8 @@ package com.example.demo;
 
 public class Bus {
 
+       int i=10; 
+
 	public void start() {
 
 		// Changes for HIS-134
